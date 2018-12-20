@@ -1,0 +1,13 @@
+# https://docs.aws.amazon.com/cli/latest/userguide/cli-environment.html
+
+# This needs to
+export AWS_ACCESS_KEY_ID=
+export AWS_SECRET_ACCESS_KEY=
+# export AWS_SESSION_TOKEN=
+export AWS_DEFAULT_REGION=us-east-1
+# export AWS_DEFAULT_OUTPUT=
+# export AWS_PROFILE=
+# export AWS_CA_BUNDLE=
+# export AWS_SHARED_CREDENTIALS_FILE=
+# export AWS_CONFIG_FILE=
+export AWS_ACCOUNT_NUMBER=
